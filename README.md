@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kou135&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kou135&theme=gruvbox&utcOffset=9)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=kou135&theme=gruvbox)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kou135&show_icons=true&theme=radical)
-
 
 ## これまでの経験・実績
 ### 案件
