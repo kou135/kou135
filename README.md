@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 0→1が大好きなエンジニアです！
 Web,モバイル,LLMなど幅広い範囲のサービス作りが好きです✨
 
+
 ## これまでの経験・実績
+
 ### 個人案件
 #### 会場予約自動システムの構築
 - 役割: 個人
+
 
 ### 実務
 
@@ -32,6 +35,7 @@ Web,モバイル,LLMなど幅広い範囲のサービス作りが好きです✨
 - 自社マーケティングサイトの開発
 - 役割: フロントエンドエンジニア
 - 技術スタック: Next.js(SSG), Vercel, Prismic
+
 
 ### その他制作物
 
@@ -52,6 +56,7 @@ Minima. - あなただけの日常基盤知識を育てるアプリ
 - 役割: テックリード
 - 技術スタック: javascript, laravel, MySQL, openAI
 - https://github.com/kou135/Coret
+
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kou135&theme=gruvbox)
