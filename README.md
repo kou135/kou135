@@ -12,14 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kou135&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kou135&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kou135&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kou135&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kou135&theme=gruvbox&utcOffset=9)
-
+## 私について
+0→1が大好きなエンジニアです！
+Web,モバイル,LLMなど幅広い範囲のサービス作りが好きです✨
 
 ## これまでの経験・実績
 ### 個人案件
@@ -57,3 +52,13 @@ Minima. - あなただけの日常基盤知識を育てるアプリ
 - 役割: テックリード
 - 技術スタック: javascript, laravel, MySQL, openAI
 - https://github.com/kou135/Coret
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kou135&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kou135&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kou135&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kou135&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kou135&theme=gruvbox&utcOffset=9)
+
+
+
