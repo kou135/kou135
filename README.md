@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📫自己紹介
-#### 青山学院大学理工学部4年
-#### 0→1が大好きなエンジニアです！
-#### Web,モバイル,LLMなど幅広い範囲の趣味とサービス作りが好きです✨
+## 📫About Me
+#### 4th-year student, College of Science and Engineering, Aoyama Gakuin University
+#### Engineer who loves going from 0 to 1 (from idea to product)
+#### I enjoy building services across a wide range of areas, including web, mobile, and LLMs✨
 
 ## 🔭これまでの経験・実績
 
