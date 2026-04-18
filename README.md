@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 #### I enjoy building services across a wide range of areas, including web, mobile, and LLMs✨
 
 ## Yay!!
+[![Tokscale Stats](https://tokscale.ai/api/embed/kou135/svg?sort=cost)](https://tokscale.ai/u/kou135)
 [![Programming Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,fastapi,firebase,flutter,ai,laravel,md,mysql,nextjs,supabase,npm,pnpm,postgres,)](https://skillicons.dev)
 
 ## 🔭これまでの経験・実績
