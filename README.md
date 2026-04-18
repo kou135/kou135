@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 #### Engineer who loves going from 0 to 1 (from idea to product)
 #### I enjoy building services across a wide range of areas, including web, mobile, and LLMs✨
 
+## Yay!!
+[![Programming Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,fastapi,firebase,flutter,ai,laravel,md,mysql,nextjs,supabase,npm,pnpm,postgres,)](https://skillicons.dev)
+
 ## 🔭これまでの経験・実績
 
 ### 🎩個人案件
