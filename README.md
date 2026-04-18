@@ -66,8 +66,8 @@ Minima. - あなただけの日常基盤知識を育てるアプリ
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kou135&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kou135&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kou135&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kou135&theme=gruvbox)
 
 
 
