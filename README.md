@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📫About Me
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZqNWI3ZGoxcTJrNmRyZ3puajFrdGJneWdidjMwOW53c2lrNmhvdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0IFrHkIglEOg8Ba/giphy.gif" width="40">About Me
 #### 4th-year student, College of Science and Engineering, Aoyama Gakuin University
 #### Engineer who loves going from 0 to 1 (from idea to product)
 #### I enjoy building services across a wide range of areas, including web, mobile, and LLMs✨
