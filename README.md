@@ -44,8 +44,3 @@ Minima. - あなただけの日常基盤知識を育てるアプリ
 - URL: https://github.com/kou135/job_search_axis
 
 
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kou135&theme=gruvbox)
-
-
-
