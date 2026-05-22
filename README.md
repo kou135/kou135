@@ -21,27 +21,8 @@ Here are some ideas to get you started:
 [![Tokscale Stats](https://tokscale.ai/api/embed/kou135/svg?sort=cost)](https://tokscale.ai/u/kou135)
 [![Programming Languages](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,py,fastapi,php,laravel,flutter,mysql,postgres,supabase,firebase,npm,pnpm,tailwind,docker,ai,md)](https://skillicons.dev)
 
-## 🔭これまでの経験・実績
 
-### 🎩個人案件
-#### 会場予約自動システムの構築
-- 役割: 個人
-
-
-### 👯実務
-
-#### 2024/07~2025/04 株式会社アンチパターン
-- BtoB SaaS(matomeru)の受諾開発
-- 役割: フロントエンド・バックエンドエンジニア
-- 技術スタック: Next.js, laravel, PostgreSQL, openAPI, SaaSusPlatform
-
-#### 2025/09~2026/04 株式会社アンチパターン
-- 自社マーケティングサイトの開発
-- 役割: フロントエンドエンジニア
-- 技術スタック: Next.js(SSG), Vercel, Prismic
-
-
-### 🌱その他制作物
+### 🌱個人制作物
 
 #### モバイルアプリ「Minima.」
 - その人ならではの基盤知識 × 最小限のハードル × 着実な知的進歩を提供価値としたアプリ。「誰もが自分を肯定して眠れる世界」の実現を掲げている。
@@ -61,12 +42,6 @@ Minima. - あなただけの日常基盤知識を育てるアプリ
 - 役割: 個人開発
 - 技術スタック: mastra, gemini
 - URL: https://github.com/kou135/job_search_axis
-
-#### 2025/02~2025/04 管理者向けサーベイプロダクト「Coret」
-- 概要: 管理者をターゲットに、従業員のサーベイ結果をもとに課題の可視化から施策の立案・実行を支援するAI補助付きのプロダクト
-- 役割: テックリード
-- 技術スタック: javascript, laravel, MySQL, openAI
-- URL: https://github.com/kou135/Coret
 
 
 ## Stats
