@@ -20,27 +20,3 @@ Here are some ideas to get you started:
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZqNWI3ZGoxcTJrNmRyZ3puajFrdGJneWdidjMwOW53c2lrNmhvdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J3rGigrYfx8aKqI/giphy.gif" width="40">Yay!!
 [![Tokscale Stats](https://tokscale.ai/api/embed/kou135/svg?sort=cost)](https://tokscale.ai/u/kou135)
 [![Programming Languages](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,py,fastapi,php,laravel,flutter,mysql,postgres,supabase,firebase,npm,pnpm,tailwind,docker,ai,md)](https://skillicons.dev)
-
-
-### 🌱個人制作物
-
-#### モバイルアプリ「Minima.」
-- その人ならではの基盤知識 × 最小限のハードル × 着実な知的進歩を提供価値としたアプリ。「誰もが自分を肯定して眠れる世界」の実現を掲げている。
-- 役割: 個人開発
-- 技術スタック: Flutter, Firebase, CloudFunction, RevenueCat, AdMob, OpenAI
-- 事業全体像: https://miro.com/app/board/uXjVGtbYF0c=/?share_link_id=940136397360
-- URL: https://apps.apple.com/jp/app/minima-%E3%81%82%E3%81%AA%E3%81%9F%E3%81%A0%E3%81%91%E3%81%AE%E6%97%A5%E5%B8%B8%E5%9F%BA%E7%9B%A4%E7%9F%A5%E8%AD%98%E3%82%92%E8%82%B2%E3%81%A6%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/id6758986382
-Minima. - あなただけの日常基盤知識を育てるアプリ
-
-#### EvoArena
-- to A SaaS
-- 役割: 個人開発
-- URL: https://evoarena.net
-
-#### 企業検索自動ツール
-- あらかじめnotionに就活の軸などを記載→定期的にAIが自動でその軸と沿うような企業情報のサマリーを貯めてくれるAIエージェントサービス
-- 役割: 個人開発
-- 技術スタック: mastra, gemini
-- URL: https://github.com/kou135/job_search_axis
-
-
