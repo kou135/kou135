@@ -19,4 +19,12 @@ Here are some ideas to get you started:
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZqNWI3ZGoxcTJrNmRyZ3puajFrdGJneWdidjMwOW53c2lrNmhvdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l1J3rGigrYfx8aKqI/giphy.gif" width="40">Yay!!
 [![Tokscale Stats](https://tokscale.ai/api/embed/kou135/svg?sort=cost)](https://tokscale.ai/u/kou135)
-[![Programming Languages](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,py,fastapi,php,laravel,flutter,mysql,postgres,supabase,firebase,npm,pnpm,tailwind,docker,ai,md)](https://skillicons.dev)
+
+### Frontend
+[![Programming Languages](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,npm,pnpm,tailwind)](https://skillicons.dev)
+
+### Backend
+[![Programming Languages](https://skillicons.dev/icons?i=py,fastapi,php,laravel,mysql,postgres,supabase,firebase)](https://skillicons.dev)
+
+### etc
+[![Programming Languages](https://skillicons.dev/icons?i=flutter,docker,ai,md)](https://skillicons.dev)
