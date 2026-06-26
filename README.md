@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 ### Backend
 [![Programming Languages](https://skillicons.dev/icons?i=py,fastapi,php,laravel,mysql,postgres,supabase,firebase)](https://skillicons.dev)
 
-### etc
+### etc...
 [![Programming Languages](https://skillicons.dev/icons?i=flutter,docker,ai,md)](https://skillicons.dev)
